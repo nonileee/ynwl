@@ -16,3 +16,4 @@ DELIMITER ;
 -- BEGIN与END的语句必须加；不加会报错，之前就忘记了！！！
 -- 其实就类似于子查询的感觉，理解为主
 -- 调用时语句：call sql_invoicing.get_inclients_by_state('ca'); 但是点闪电⚡标识时，会弹出对话框直接让你填ca的
+-- if exists 三单形式哈
